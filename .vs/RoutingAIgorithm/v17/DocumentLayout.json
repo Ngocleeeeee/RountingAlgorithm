@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|d:\\documents\\schoolfiles\\it\\semester_6\\ai\\proj\\routingaigorithm\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|d:\\documents\\schoolfiles\\it\\semester_6\\ai\\proj\\routingaigorithm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|d:\\documents\\schoolfiles\\it\\semester_6\\ai\\proj\\routingaigorithm\\models\\resultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:models\\resultdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|d:\\documents\\schoolfiles\\it\\semester_6\\ai\\proj\\routingaigorithm\\algorithms\\bnb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:algorithms\\bnb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|d:\\documents\\schoolfiles\\it\\semester_6\\ai\\proj\\routingaigorithm\\models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:models\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|d:\\documents\\schoolfiles\\it\\semester_6\\ai\\proj\\routingaigorithm\\formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:formresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|d:\\documents\\schoolfiles\\it\\semester_6\\ai\\proj\\routingaigorithm\\algorithms\\hcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:algorithms\\hcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|d:\\documents\\schoolfiles\\it\\semester_6\\ai\\proj\\routingaigorithm\\models\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:models\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\algorithms\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A2EEF4-4FBD-4FDA-9038-744F915EB5FE}|RoutingAIgorithm.csproj|solutionrelative:algorithms\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1966,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultData.cs",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Models\\ResultData.cs",
+              "RelativeDocumentMoniker": "Models\\ResultData.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Models\\ResultData.cs",
+              "RelativeToolTip": "Models\\ResultData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T19:16:21.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Node.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "Models\\Node.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Models\\Node.cs [Design]",
+              "RelativeToolTip": "Models\\Node.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:20:49.038Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormResult.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\FormResult.cs",
+              "RelativeDocumentMoniker": "FormResult.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\FormResult.cs [Design]",
+              "RelativeToolTip": "FormResult.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:46:39.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Models\\Utils.cs",
+              "RelativeDocumentMoniker": "Models\\Utils.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Models\\Utils.cs",
+              "RelativeToolTip": "Models\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:31:04.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormResult.cs",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\FormResult.cs",
+              "RelativeDocumentMoniker": "FormResult.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\FormResult.cs",
+              "RelativeToolTip": "FormResult.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAiwBwBAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:24:20.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BNB.cs",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Algorithms\\BNB.cs",
+              "RelativeDocumentMoniker": "Algorithms\\BNB.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Algorithms\\BNB.cs",
+              "RelativeToolTip": "Algorithms\\BNB.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAvwG8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:17:18.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Models\\Node.cs",
+              "RelativeDocumentMoniker": "Models\\Node.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Models\\Node.cs",
+              "RelativeToolTip": "Models\\Node.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T15:58:33.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2275,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DFS.cs",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Algorithms\\DFS.cs",
+              "RelativeDocumentMoniker": "Algorithms\\DFS.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Algorithms\\DFS.cs",
+              "RelativeToolTip": "Algorithms\\DFS.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwEUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:43:31.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HCS.cs",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Algorithms\\HCS.cs",
+              "RelativeDocumentMoniker": "Algorithms\\HCS.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Algorithms\\HCS.cs",
+              "RelativeToolTip": "Algorithms\\HCS.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAswGEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:31:28.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Documents\\SchoolFiles\\IT\\SEMESTER_6\\AI\\Proj\\RoutingAIgorithm\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAswOQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T17:27:43.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

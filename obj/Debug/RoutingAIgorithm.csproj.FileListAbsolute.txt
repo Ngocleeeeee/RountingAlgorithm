@@ -1,0 +1,15 @@
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\bin\Debug\RoutingAIgorithm.exe.config
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\bin\Debug\RoutingAIgorithm.exe
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\bin\Debug\RoutingAIgorithm.pdb
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\bin\Debug\INIFileParser.dll
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\bin\Debug\INIFileParser.xml
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingAIgorithm.csproj.AssemblyReference.cache
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingAIgorithm.csproj.ResolveComReference.cache
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingAIgorithm.Form1.resources
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingAIgorithm.FormResult.resources
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingAIgorithm.Properties.Resources.resources
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingAIgorithm.csproj.GenerateResource.cache
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingAIgorithm.csproj.CoreCompileInputs.cache
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingA.4A4F9C39.Up2Date
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingAIgorithm.exe
+D:\Documents\SchoolFiles\IT\SEMESTER_6\AI\Proj\RoutingAIgorithm\obj\Debug\RoutingAIgorithm.pdb
